@@ -1,0 +1,13 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# lcdc_rgba8888_mxt_9x60_wvga configuration
+CND_ARTIFACT_DIR_lcdc_rgba8888_mxt_9x60_wvga=dist/lcdc_rgba8888_mxt_9x60_wvga/production
+CND_ARTIFACT_NAME_lcdc_rgba8888_mxt_9x60_wvga=Follett.X.production.hex
+CND_ARTIFACT_PATH_lcdc_rgba8888_mxt_9x60_wvga=dist/lcdc_rgba8888_mxt_9x60_wvga/production/Follett.X.production.hex
+CND_PACKAGE_DIR_lcdc_rgba8888_mxt_9x60_wvga=${CND_DISTDIR}/lcdc_rgba8888_mxt_9x60_wvga/package
+CND_PACKAGE_NAME_lcdc_rgba8888_mxt_9x60_wvga=follett.x.tar
+CND_PACKAGE_PATH_lcdc_rgba8888_mxt_9x60_wvga=${CND_DISTDIR}/lcdc_rgba8888_mxt_9x60_wvga/package/follett.x.tar

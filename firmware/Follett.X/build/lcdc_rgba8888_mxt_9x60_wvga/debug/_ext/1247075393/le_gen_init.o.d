@@ -1,0 +1,215 @@
+build/lcdc_rgba8888_mxt_9x60_wvga/debug/_ext/1247075393/le_gen_init.o: \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_init.c \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_init.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/legato.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_common.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/legato_config.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/toolchain_specifics.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_color.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_math.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_input.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_event.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/datastructure/legato_list.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/legato_widget.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_rect.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_scheme.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/datastructure/legato_array.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_state.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/driver/gfx_driver.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_stringtable.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/font/legato_font.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_stream.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/legato_editwidget.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_string.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_error.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/image/legato_image.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_pixelbuffer.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/image/legato_palette.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/memory/legato_memory.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/renderer/legato_renderer.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/datastructure/legato_rectarray.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_dynamicstring.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_fixedstring.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_tablestring.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/button/legato_widget_button.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/image/legato_widget_image.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/imagesequence/legato_widget_imagesequence.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/keypad/legato_widget_keypad.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/label/legato_widget_label.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/line/legato_widget_line.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/linegraph/legato_widget_line_graph.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/rectangle/legato_widget_rectangle.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_scheme.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_assets.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_start.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_splash.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_splash_hotwater.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_splash.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_cleanscreen.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_docs.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_display.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_alert2.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_alert3.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_main_menu.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_instructStep.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced_sleepmode.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_eventlog.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedwakeonDispense.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced_screentimeout.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_password.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_keyboard.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedcontact.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedoutput.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedinput.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced_Reset_to_Factory.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedgearmotor.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedconfig.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_sysinfo.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_troubleshoot_display.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_contact.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_File.h \
+ ../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_Sensor.h
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_init.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/legato.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_common.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/legato_config.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/toolchain_specifics.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_color.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_math.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_input.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_event.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/datastructure/legato_list.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/legato_widget.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_rect.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_scheme.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/datastructure/legato_array.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_state.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/driver/gfx_driver.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_stringtable.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/font/legato_font.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/core/legato_stream.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/legato_editwidget.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_string.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_error.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/image/legato_image.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/common/legato_pixelbuffer.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/image/legato_palette.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/memory/legato_memory.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/renderer/legato_renderer.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/datastructure/legato_rectarray.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_dynamicstring.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_fixedstring.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/string/legato_tablestring.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/button/legato_widget_button.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/image/legato_widget_image.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/imagesequence/legato_widget_imagesequence.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/keypad/legato_widget_keypad.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/label/legato_widget_label.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/line/legato_widget_line.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/linegraph/legato_widget_line_graph.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/widget/rectangle/legato_widget_rectangle.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_scheme.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/le_gen_assets.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_start.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_splash.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_splash_hotwater.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_splash.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_cleanscreen.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_docs.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_selfhelp_display.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_alert2.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_alert3.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_main_menu.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_instructStep.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced_sleepmode.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_eventlog.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedwakeonDispense.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced_screentimeout.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_password.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_keyboard.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedcontact.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedoutput.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedinput.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advanced_Reset_to_Factory.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedgearmotor.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_service_advancedconfig.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_sysinfo.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_troubleshoot_display.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_contact.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_File.h:
+
+../src/config/lcdc_rgba8888_mxt_9x60_wvga/gfx/legato/generated/screen/le_gen_screen_Sensor.h:

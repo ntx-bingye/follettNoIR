@@ -1,0 +1,13 @@
+configName: lcdc_rgba8888_mxt_9x60_wvga
+folderName: ''
+format_version: v1.0
+frameworkPath: C:\Develop\Harmony
+processor: SAM9X60D6K
+projectName: ''
+settings:
+  PackageFilter: bsp;core;core_apps_sam_9x60;csp;csp_apps_sam_9x60;gfx;gfx_apps;gfx_apps_sam_9x60;quick_docs;reference_apps;touch;touch_apps;usb;usb_apps_device;usb_apps_dual_role;usb_apps_host;usb_apps_multi_controller
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_RECENT
+  DFPPath: .\dev_packs\Microchip\SAM9X60_DFP\1.5.50\atdf\SAM9X60D6K.atdf

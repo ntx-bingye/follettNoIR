@@ -1,0 +1,99 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: dbgu}
+children:
+- type: Symbols
+  children:
+  - type: Integer
+    attributes: {id: BAUD_RATE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '115200'}
+  - type: Integer
+    attributes: {id: BRG_VALUE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: dbgu, value: '108'}
+  - type: Integer
+    attributes: {id: DBGU_CLOCK_FREQ}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: dbgu, value: '200000000'}
+  - type: File
+    attributes: {id: DBGU_HEADER}
+    children:
+    - type: Attributes
+      children:
+      - type: String
+        attributes: {id: source}
+        children:
+        - {type: Value, value: ../peripheral/dbgu_6059/templates/plib_dbgu.h.ftl}
+  - type: Boolean
+    attributes: {id: DBGU_INTERRUPT_MODE_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: dbgu, value: 'true'}
+  - type: KeyValueSet
+    attributes: {id: DBGU_OPERATING_MODE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: dbgu, value: '2'}
+      - type: User
+        attributes: {value: '1'}
+  - type: Boolean
+    attributes: {id: DBGU_RING_BUFFER_MODE_ENABLE}
+    children:
+    - type: Values
+      children:
+      - type: Dynamic
+        attributes: {id: dbgu, value: 'false'}
+  - type: Integer
+    attributes: {id: DBGU_RX_RING_BUFFER_SIZE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '1024'}
+  - type: File
+    attributes: {id: DBGU_SOURCE}
+    children:
+    - type: Attributes
+      children:
+      - type: String
+        attributes: {id: source}
+        children:
+        - {type: Value, value: ../peripheral/dbgu_6059/templates/plib_dbgu.c.ftl}
+  - type: Integer
+    attributes: {id: DBGU_TX_RING_BUFFER_SIZE}
+    children:
+    - type: Values
+      children:
+      - type: User
+        attributes: {value: '1024'}
+- type: Attachments
+  children:
+  - type: DirectCapability
+    attributes: {id: DBGU_UART}
+    children:
+    - type: Attributes
+      children:
+      - type: String
+        attributes: {id: targetComponentID}
+        children:
+        - {type: Value, value: stdio}
+      - type: String
+        attributes: {id: targetAttachmentID}
+        children:
+        - {type: Value, value: UART}
+- type: ElementPosition
+  attributes: {x: '17', y: '261', id: dbgu}

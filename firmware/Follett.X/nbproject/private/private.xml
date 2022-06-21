@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>file:/C:/develop/Helioswork/firmware/src/app.h</url>
+            <bookmark id="1">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/config/lcdc_rgba8888_mxt_9x60_wvga/peripheral/flexcom/twi/master/plib_flexcom4_twi_master.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/config/lcdc_rgba8888_mxt_9x60_wvga/peripheral/aic/plib_aic.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/config/lcdc_rgba8888_mxt_9x60_wvga/peripheral/flexcom/twi/master/plib_flexcom8_twi_master.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/app_touchless.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/screens/splash.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/splash_utility.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/splash_hotwater.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/screens/timer.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/app.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/config/lcdc_rgba8888_mxt_9x60_wvga/peripheral/flexcom/usart/plib_flexcom0_usart.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/comTaskDrv.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/screens/start.c</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/splash_utility.h</file>
+            <file>file:/C:/develop/Follett/aFollettwork/firmware/src/cJSON.h</file>
+        </group>
+    </open-files>
+</project-private>
